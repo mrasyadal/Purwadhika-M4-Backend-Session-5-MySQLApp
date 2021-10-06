@@ -1,0 +1,24 @@
+{
+  "name": "mysql_app",
+  "version": "1.0.0",
+  "description": "mysql and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrasyadal/Purwadhika-M4-Backend-Session-5-MySQLApp.git"
+  },
+  "author": "dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrasyadal/Purwadhika-M4-Backend-Session-5-MySQLApp/issues"
+  },
+  "homepage": "https://github.com/mrasyadal/Purwadhika-M4-Backend-Session-5-MySQLApp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
